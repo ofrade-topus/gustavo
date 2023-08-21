@@ -1,0 +1,20 @@
+{
+  "name": "gustavo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Orlando Frade",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
